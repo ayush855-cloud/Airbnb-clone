@@ -50,6 +50,20 @@
     display: flex;
     justify-content: space-between;
 }
+@media screen and (max-width:450px){
+    .searchResult__infoBottom{
+       margin-top: 50px;
+    }
+    .searchResult__heart {
+        top: 5px;
+    }
+    .searchResult > img {
+        height: 350px;
+        width: 350px;
+        object-fit: cover;
+    }
+   
+}
 
 
 .searchResult__star {

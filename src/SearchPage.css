@@ -16,3 +16,8 @@
     text-transform: inherit;
     margin: 5px;
   }
+  @media screen and (max-width:450px){
+    .searchPage{
+       width: 165%;
+    }
+}

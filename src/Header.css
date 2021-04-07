@@ -41,3 +41,9 @@
     width: 15vw;
     margin-right: 80px;
 }
+@media screen and (max-width:450px){
+    .header{
+        width: 169%;
+        height: 90px;
+    }
+}

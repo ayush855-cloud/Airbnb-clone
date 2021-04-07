@@ -44,3 +44,9 @@
     background-color: white;
     color: #ff7779;
 }
+@media screen and (max-width:450px){
+    .search{
+        left: 0%;
+        height: 80vw;
+    }
+}
