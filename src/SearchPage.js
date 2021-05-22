@@ -36,7 +36,7 @@ function SearchPage() {
             />
 
             <SearchResult
-                img="https://www.smartertravel.com/uploads/2017/07/Untitled-design-8.jpg"
+                img="https://image.insider.com/585029a0dd0895bc548b4b8b?width=750&format=jpeg&auto=webp"
                 location="Private room in center of London"
                 title="London Studio Apartments"
                 description="4 guest · 4 bedroom · 4 bed · 2 bathrooms · Free parking · Washing Machine"
@@ -54,7 +54,7 @@ function SearchPage() {
                 total="£320 total"
             />
             <SearchResult
-                img="https://media.cntraveler.com/photos/5a8f258bd363c34048b35aac/master/w_2250,h_1500,c_limit/airbnb-plus-london.jpg"
+                img="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ_wbPYTxQPMcBh7SPzLFActXnP3uhifeVT_g&usqp=CAU"
                 location="Private room in center of London"
                 title="Spacious Peaceful Modern Bedroom"
                 description="3 guest · 1 bedroom · 1 bed · 1.5 shared bthrooms · Wifi · Free parking · Dry Cleaning"

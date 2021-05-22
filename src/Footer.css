@@ -8,11 +8,14 @@
 
 .footer > p {
     padding: 5px;
-    font-size: 14px;
+    font-size: 20px;
 }
 @media screen and (max-width:450px){
     .footer{
         width: 155%;
         height: 90px;
+    }
+    .footer > p{
+        font-size: 20px;
     }
 }

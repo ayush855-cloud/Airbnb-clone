@@ -2,7 +2,8 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin-top: 15px;
+    padding: 15px 0px;
+    /* margin-top: 15px; */
     margin-bottom: 25px;
     position: sticky;
     top: 0px;
@@ -38,12 +39,20 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    width: 15vw;
+    width: 13vw;
     margin-right: 80px;
+}
+.header__right>p{
+    font-size: 20px;
 }
 @media screen and (max-width:450px){
     .header{
-        width: 169%;
+        width: 177%;
         height: 90px;
+    }
+    .header__right{
+        width: 10vw;
+        
+        margin-right: 148px;
     }
 }
